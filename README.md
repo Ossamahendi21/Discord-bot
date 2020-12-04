@@ -26,11 +26,11 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Cog-Creators/Red-DiscordBot/actions">
-    <img src="https://img.shields.io/github/workflow/status/Cog-Creators/Red-Discordbot/Tests?label=tests" alt="GitHub Actions">
+  <a href="https://github.com/Cog-Creators/friend-DiscordBot/actions">
+    <img src="https://img.shields.io/github/workflow/status/Cog-Creators/friend-Discordbot/Tests?label=tests" alt="GitHub Actions">
   </a>
-  <a href="http://red-discordbot.readthedocs.io/en/stable/?badge=stable">
-    <img src="https://readthedocs.org/projects/red-discordbot/badge/?version=stable" alt="Red on readthedocs.org">
+  <a href="http://friend-discordbot.readthedocs.io/en/stable/?badge=stable">
+    <img src="https://readthedocs.org/projects/friends-discordbot/badge/?version=stable" alt="Red on readthedocs.org">
   </a>
   <a href="https://github.com/ambv/black">
     <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code Style: Black">
@@ -86,12 +86,11 @@ community of cog repositories.**
 
 **The following platforms are officially supported:** 
 
-- [Windows](https://red-discordbot.readthedocs.io/en/stable/install_windows.html)
-- [MacOS](https://red-discordbot.readthedocs.io/en/stable/install_linux_mac.html)
-- [Most major linux distributions](https://red-discordbot.readthedocs.io/en/stable/install_linux_mac.html)
 
-If after reading the guide you are still experiencing issues, feel free to join the
-[Official Discord Server](https://discord.gg/red) and ask in the **#support** channel for help.
+
+
+
+[Official Discord Server](https://discord.gg/8A5T7mD) and ask in the **#support** channel for help.
 
 # Plugins
 
@@ -118,7 +117,7 @@ content (cogs/plugins) for everyone to enjoy. New features are constantly added.
 consult our [guide](https://red-discordbot.readthedocs.io/en/stable/guide_cog_creation.html) on
 building your own cogs!
 
-Join us on our [Official Discord Server](https://discord.gg/red)!
+Join us on our [Official Discord Server](https://discord.gg/8A5T7mD)!
 
 # License
 
