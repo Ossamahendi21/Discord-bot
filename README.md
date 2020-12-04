@@ -1,8 +1,8 @@
 # Discord-<h1 align="center">
   <br>
-  <a href="https://github.com/Cog-Creators/friend-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="friends - Discord Bot"></a>
+  <a href="https://github.com/Cog-Creators/friend-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="friends- Discord Bot"></a>
   <br>
-  Red Discord Bot
+  Friend Discord Bot
   <br>
 </h1>
 
