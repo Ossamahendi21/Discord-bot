@@ -97,7 +97,7 @@ community of cog repositories.**
 Red is fully modular, allowing you to load and unload plugins of your choice, and install 3rd party
 plugins directly from Discord! A few examples are:
 
-- Cleverbot integration (talk to Red and she talks back)
+- Cleverbot integration (talk to Friend and she talks back)
 - Ban sync
 - Welcome messages
 - Casino
