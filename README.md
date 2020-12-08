@@ -1,6 +1,6 @@
 # Discord-<h1 align="center">
   <br>
-  <a href="https://github.com/Ossamahendi21/friend-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="friends- Discord Bot"></a>
+  <a href="https://github.com/Ossamahendi21/red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="friends- Discord Bot"></a>
   <br>
   Friend Discord Bot
   <br>
